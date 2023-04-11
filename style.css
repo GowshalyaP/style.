@@ -1,0 +1,29 @@
+
+
+.red-box{
+    background-color: red;
+    border: 10px solid black;
+    width: 150px;
+    height: 150px;
+    
+    
+
+}
+.blue-box{
+    background-color:blue;
+    border: 10px solid black;
+    width: 150px;
+    height: 150px;
+    margin-left: 150;
+    
+
+}
+.yellow-box{
+    background-color:yellow;
+    border: 10px solid black;
+    width: 150px;
+    height: 150px;
+    margin-left: 300px;
+    
+
+}
